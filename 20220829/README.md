@@ -28,11 +28,11 @@ METS KB Example: http://oraapp-prod-02.kb.dk/permalink/2006/manus/7/eng/ & http:
 
 According to Tue: 
 
-1. rendings links (I dag et Cumulus jpg2000 renderings sidesystem inkl. ejer og vandmærker på billeder, men forventes erstattet af nyt i Digitale samlinger). Current situation: https://github.com/kb-dk/access-digital-objects/blob/master/image-delivery.md#constructing-iiif-uris
-1. hierarkisk publicerings indholds struktur (Cumulus anvender udsnit af kategori struktur, som afspejles i nuværende Digitale Samlinger): For example: Cop navigation service http://www5.kb.dk/cop/navigation/manus/ortsam/2009/okt/orientalia/subject637/en/ & http://www5.kb.dk/manus/ortsam/2009/okt/orientalia/subject637/en/
+1. rendings links (I dag et Cumulus jpg2000 renderings sidesystem inkl. ejer og vandmærker på billeder, men forventes erstattet af nyt i Digitale samlinger). Current situation (According to Sigge): https://github.com/kb-dk/access-digital-objects/blob/master/image-delivery.md#constructing-iiif-uris
+1. hierarkisk publicerings indholds struktur (Cumulus anvender udsnit af kategori struktur, som afspejles i nuværende Digitale Samlinger): For example (According to Sigge): Cop navigation service http://www5.kb.dk/cop/navigation/manus/ortsam/2009/okt/orientalia/subject637/en/ & http://www5.kb.dk/manus/ortsam/2009/okt/orientalia/subject637/en/
 1. flersidede værker
 
-The TEI model for multiple sets of milestones (eg page breaks in different editions):
+This is an extremely complex problem: The TEI model for multiple sets of milestones (e.g.: page breaks in different editions):
 * https://tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#CORS5
 * https://raw.githubusercontent.com/kb-dk/SKS_tei/master/data/v1.9/ee1/txt.xml
 * http://xstorage-test-01.kb.dk:8080/exist/rest/db/text-retriever/present.xq?path=sks-ee1-txt-root#s231 (text service backend)

@@ -33,3 +33,6 @@ According to Tue:
 The TEI model for multiple sets of milestones (eg page breaks in different editions):
 * https://tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#CORS5
 * https://raw.githubusercontent.com/kb-dk/SKS_tei/master/data/v1.9/ee1/txt.xml
+* http://xstorage-test-01.kb.dk:8080/exist/rest/db/text-retriever/present.xq?path=sks-ee1-txt-root#s231 (text service backend)
+
+

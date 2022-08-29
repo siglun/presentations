@@ -29,7 +29,6 @@ According to Tue:
 1. hierarkisk publicerings indholds struktur (Cumulus anvender udsnit af kategori struktur, som afspejles i nuværende Digitale Samlinger)
 1. flersidede værker
 
-
 The TEI model for multiple sets of milestones (eg page breaks in different editions):
 * https://tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#CORS5
 * https://raw.githubusercontent.com/kb-dk/SKS_tei/master/data/v1.9/ee1/txt.xml

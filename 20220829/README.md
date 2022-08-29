@@ -8,6 +8,9 @@ Canonical references: https://www.loc.gov/standards/mods/ and https://www.loc.go
 * When I was depressed started I to write this: https://github.com/kb-dk/the-way-we-thought-on-metadata (far from complete)
 * An example corpus of records from COP: https://github.com/kb-dk/ds-solr/tree/nested-solr-indexing/nested-corpus
 
+Data available from COP backend:
+https://github.com/kb-dk/access-digital-objects/blob/master/cop-backend.md#examples
+
 ## METS
 
 Canonical references: https://www.loc.gov/standards/mets/ and https://www.loc.gov/standards/mets/METSOverview.v3_en.html
@@ -26,7 +29,7 @@ METS KB Example: http://oraapp-prod-02.kb.dk/permalink/2006/manus/7/eng/ & http:
 According to Tue: 
 
 1. rendings links (I dag et Cumulus jpg2000 renderings sidesystem inkl. ejer og vandmærker på billeder, men forventes erstattet af nyt i Digitale samlinger),
-1. hierarkisk publicerings indholds struktur (Cumulus anvender udsnit af kategori struktur, som afspejles i nuværende Digitale Samlinger)
+1. hierarkisk publicerings indholds struktur (Cumulus anvender udsnit af kategori struktur, som afspejles i nuværende Digitale Samlinger): For example: Cop navigation service http://www5.kb.dk/cop/navigation/manus/ortsam/2009/okt/orientalia/subject637/en/
 1. flersidede værker
 
 The TEI model for multiple sets of milestones (eg page breaks in different editions):

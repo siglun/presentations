@@ -23,7 +23,7 @@ METS KB Example: http://oraapp-prod-02.kb.dk/permalink/2006/manus/7/eng/ & http:
 
 ## misc stuff
 
- 
+According to Tue: 
 
 1. rendings links (I dag et Cumulus jpg2000 renderings sidesystem inkl. ejer og vandmærker på billeder, men forventes erstattet af nyt i Digitale samlinger),
 1. hierarkisk publicerings indholds struktur (Cumulus anvender udsnit af kategori struktur, som afspejles i nuværende Digitale Samlinger)

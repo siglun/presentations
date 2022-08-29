@@ -11,6 +11,8 @@ Canonical references: https://www.loc.gov/standards/mods/ and https://www.loc.go
 Data available from COP backend:
 https://github.com/kb-dk/access-digital-objects/blob/master/cop-backend.md#examples
 
+See also preservation service problems...
+
 ## METS
 
 Canonical references: https://www.loc.gov/standards/mets/ and https://www.loc.gov/standards/mets/METSOverview.v3_en.html
